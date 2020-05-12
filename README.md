@@ -1,1 +1,1 @@
-# swagger-caseStudy
+# swagger-caseStudy for getting response from swagger API
